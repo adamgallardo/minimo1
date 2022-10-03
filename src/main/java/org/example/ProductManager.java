@@ -1,7 +1,5 @@
 package org.example;
 
-import edu.upc.eetac.dsa.models.Order;
-import edu.upc.eetac.dsa.models.Product;
 
 import java.util.List;
 
